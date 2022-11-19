@@ -156,10 +156,5 @@ span:hover{
     color: #D93856;
 }
 
-@media(max-width: 400px){
-    main{
-        width: 80%;
-        
-    }
-}
+
 
