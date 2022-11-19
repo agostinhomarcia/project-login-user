@@ -95,7 +95,7 @@ Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/kj6WCzeb23t3OB8bwc/giphy.gif" alt="login" width="250"/>
+   <img src="https://media.giphy.com/media/dscTJjpsiVamjIk6nk/giphy.gif" alt="login" width="250"/>
 </p>
 
 &#xa0;
